@@ -1,0 +1,5 @@
+/Users/gzh/Desktop/Cmake/t2/build/CMakeFiles/rebuild_cache.dir
+/Users/gzh/Desktop/Cmake/t2/build/CMakeFiles/edit_cache.dir
+/Users/gzh/Desktop/Cmake/t2/build/bin/CMakeFiles/rebuild_cache.dir
+/Users/gzh/Desktop/Cmake/t2/build/bin/CMakeFiles/edit_cache.dir
+/Users/gzh/Desktop/Cmake/t2/build/bin/CMakeFiles/hello.dir

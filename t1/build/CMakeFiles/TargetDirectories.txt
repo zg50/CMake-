@@ -1,0 +1,3 @@
+/Users/gzh/Desktop/t1/build/CMakeFiles/rebuild_cache.dir
+/Users/gzh/Desktop/t1/build/CMakeFiles/edit_cache.dir
+/Users/gzh/Desktop/t1/build/CMakeFiles/hello.dir

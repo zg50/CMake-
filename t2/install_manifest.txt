@@ -1,0 +1,4 @@
+/Users/gzh/Desktop/Cmake/t2/usr/share/doc/cmake/t2/COPYRIGHT
+/Users/gzh/Desktop/Cmake/t2/usr/share/doc/cmake/t2/README
+/Users/gzh/Desktop/Cmake/t2/usr/bin/runhello.sh
+/Users/gzh/Desktop/Cmake/t2/usr/share/doc/cmake/t2/hello.txt
