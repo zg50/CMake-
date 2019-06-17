@@ -1,0 +1,14 @@
+/Users/gzh/Desktop/Cmake/t3/build/CMakeFiles/install/local.dir
+/Users/gzh/Desktop/Cmake/t3/build/CMakeFiles/install/strip.dir
+/Users/gzh/Desktop/Cmake/t3/build/CMakeFiles/install.dir
+/Users/gzh/Desktop/Cmake/t3/build/CMakeFiles/list_install_components.dir
+/Users/gzh/Desktop/Cmake/t3/build/CMakeFiles/rebuild_cache.dir
+/Users/gzh/Desktop/Cmake/t3/build/CMakeFiles/edit_cache.dir
+/Users/gzh/Desktop/Cmake/t3/build/lib/CMakeFiles/install/local.dir
+/Users/gzh/Desktop/Cmake/t3/build/lib/CMakeFiles/install/strip.dir
+/Users/gzh/Desktop/Cmake/t3/build/lib/CMakeFiles/install.dir
+/Users/gzh/Desktop/Cmake/t3/build/lib/CMakeFiles/rebuild_cache.dir
+/Users/gzh/Desktop/Cmake/t3/build/lib/CMakeFiles/edit_cache.dir
+/Users/gzh/Desktop/Cmake/t3/build/lib/CMakeFiles/hello_static.dir
+/Users/gzh/Desktop/Cmake/t3/build/lib/CMakeFiles/list_install_components.dir
+/Users/gzh/Desktop/Cmake/t3/build/lib/CMakeFiles/hello.dir
